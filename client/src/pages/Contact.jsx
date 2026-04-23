@@ -17,7 +17,7 @@ export default function Contact() {
         >
           <FaEnvelope className="text-blue-400 text-4xl mb-4"/>
           <h3 className="text-xl font-semibold">Email</h3>
-          <p className="text-gray-400">anusha123@gmail.com</p>
+          <p className="text-gray-400">anushaakivadi9@gmail.com</p>
         </a>
 
         {/* Github */}

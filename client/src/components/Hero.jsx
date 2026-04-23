@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 export default function Hero() {
 
   return (
-    <section className="hero">
+    <section className="hero flex flex-col gap-5 mb-16">
 
       <h1>Hello I'm Anusha 👋</h1>
 
@@ -13,7 +13,7 @@ export default function Hero() {
         MERN Stack Developer building scalable web apps and
         AI-powered tools.
       </p>
-
+      
       <div className="buttons">
 
         <a href="https://github.com/AAK191" className="px-6 py-3 bg-blue-500 rounded-lg hover:bg-blue-600 transition">

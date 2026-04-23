@@ -80,3 +80,13 @@
     transform: translateY(50px);
   }
 }
+
+.buttons {
+  margin-top: 20px;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* 🔥 clean spacing */
+}

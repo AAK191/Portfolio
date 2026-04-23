@@ -30,27 +30,6 @@ export default function Projects() {
         </div>
 
 
-        <div className="bg-gray-900 p-6 rounded-xl shadow-lg">
-
-          <h2 className="text-xl font-bold text-blue-400 mb-2">
-            Hotel Order Agent
-          </h2>
-
-          <p className="text-gray-300 mb-4">
-            AI chatbot integration for hotel ordering
-          </p>
-
-          <a
-            href="https://github.com/AAK191/Hotel-Order-Agent"
-            className="flex items-center gap-2 text-blue-400"
-          >
-            <FaGithub /> View Repo
-          </a>
-
-        </div>
-
-
-
         
         <div className="bg-gray-900 p-6 rounded-xl shadow-lg">
 
@@ -72,6 +51,100 @@ export default function Projects() {
         </div>
 
 
+<div className="bg-gray-900 p-6 rounded-xl shadow-lg">
+
+  <h2 className="text-xl font-bold text-blue-400 mb-2">
+    Stock Trading Platform
+  </h2>
+
+  <p className="text-gray-300 mb-4">
+    Built a full stack stock trading application inspired by Zerodha, 
+    with real-time-like data handling, user authentication, and 
+    portfolio management features.
+  </p>
+
+  <a
+    href="https://github.com/AAK191/stock-trading"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center gap-2 text-blue-400"
+  >
+    <FaGithub /> View Project
+  </a>
+
+</div>
+
+
+<div className="bg-gray-900 p-6 rounded-xl shadow-lg hover:scale-105 transition">
+
+  <h2 className="text-xl font-bold text-blue-400 mb-2">
+    GitHub (Full Stack)
+  </h2>
+
+  <p className="text-gray-300 mb-2">
+    Built a GitHub-like platform with repository management, issue tracking, 
+    and user authentication, focusing on backend architecture and API design.
+  </p>
+
+  <p className="text-gray-400 text-sm mb-4">
+    Tech: React, Node.js, Express, MongoDB
+  </p>
+
+  <a
+    href="https://github.com/AAK191/My-github"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center gap-2 text-blue-400"
+  >
+    <FaGithub /> View Code
+  </a>
+
+</div>
+
+<div className="bg-gray-900 p-6 rounded-xl shadow-lg hover:scale-105 transition">
+
+  <h2 className="text-xl font-bold text-blue-400 mb-2">
+    Video Conferencing 
+  </h2>
+
+  <p className="text-gray-300 mb-2">
+    Built a real-time video conferencing application enabling peer-to-peer 
+    communication, focusing on low-latency interaction and live data exchange.
+  </p>
+
+  <p className="text-gray-400 text-sm mb-4">
+    Tech: React, Node.js, WebRTC / Socket.io
+  </p>
+
+  <a
+    href="https://github.com/AAK191/video-conferencing"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center gap-2 text-blue-400"
+  >
+    <FaGithub /> View Code
+  </a>
+
+</div>
+
+<div className="bg-gray-900 p-6 rounded-xl shadow-lg">
+
+          <h2 className="text-xl font-bold text-blue-400 mb-2">
+            Placing Order Agent
+          </h2>
+
+          <p className="text-gray-300 mb-4">
+            AI chatbot integration for hotel ordering
+          </p>
+
+          <a
+            href="https://github.com/AAK191/Hotel-Order-Agent"
+            className="flex items-center gap-2 text-blue-400"
+          >
+            <FaGithub /> View Repo
+          </a>
+
+        </div>
 
       </div>
 
